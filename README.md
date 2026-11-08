@@ -31,6 +31,7 @@ I work across the full delivery cycle, from product roadmaps and BRDs/PRDs to UA
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Enterprise Agent Hub**](https://github.com/vandungvo/enterprise-agent-hub) | Internal AI assistant for a multi-BU conglomerate: multi-agent ABAC-secured chatbot (Claude/Gemini/Ollama), Vietnamese hybrid RAG (BM25+Vector), human-in-the-loop approvals, full AI-DLC Enterprise documentation suite | FastAPI · Python · SQLAlchemy · Anthropic Claude · BM25+Vector RAG |
 | [**PlanWise**](https://github.com/vandungvo/mnft-schdl) | Production scheduling agent for manufacturing lines: FIFO/EDD/SPT, SA/GA, CP-SAT & CP-LNS solvers, KPI tracking and Gantt view | FastAPI · Next.js · OR-Tools · Docker |
 | [**RecipeLens**](https://github.com/vandungvo/RecipeLens-backend) | Graduate thesis: AI mobile app that recommends recipes from ingredient image recognition | YOLO · VLM · React Native · NestJS · MongoDB |
 | [**SmartFarming**](https://github.com/vandungvo/SmartFarming) | IoT smart farming: task scheduler and water monitoring | Python · IoT |
